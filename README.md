@@ -3,7 +3,7 @@
 ### Joanna Lizeth Sánchez Rangel          usuario: JoannaLizSR
 
 ## Introducción:
-La lucha contra el cáncer a avanzado mucho en los últimos 30 años, al igual que a mejorado la tasa de supervivencia, sin embargo aún es dificil alcanzar una cura generalizada.
+La lucha contra el cáncer ha avanzado mucho en los últimos 30 años, al igual que ha mejorado la tasa de supervivencia, sin embargo aún es dificil alcanzar una cura generalizada.
 
 ## Objetivo: 
 
