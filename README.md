@@ -2,29 +2,29 @@
 ### Frida Fernanda López Pérez            usuario: frifer123ONLY
 ### Joanna Lizeth Sánchez Rangel          usuario: JoannaLizSR
 
-##Introducción:
+## Introducción:
 
 
-##Objetivo: 
-
-
-
-##Hipótesis:
+## Objetivo: 
 
 
 
-##Diagrama metodológico:
+## Hipótesis:
 
 
 
-##Resultados:
+## Diagrama metodológico:
 
 
 
-##Conclusiones:
+## Resultados:
 
 
 
-##Referencias:
+## Conclusiones:
+
+
+
+## Referencias:
 
 
