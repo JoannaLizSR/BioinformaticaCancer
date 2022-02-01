@@ -3,7 +3,7 @@
 ### Joanna Lizeth Sánchez Rangel          usuario: JoannaLizSR
 
 ## Introducción:
-
+La lucha contra el cáncer a avanzado 
 
 ## Objetivo: 
 
