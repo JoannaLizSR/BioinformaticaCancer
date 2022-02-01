@@ -10,9 +10,10 @@ prevenir el cáncer y, en general, para acceder a sistemas de atención oportun
 
 La lucha contra el cáncer ha avanzado mucho en los últimos 30 años, al igual que ha mejorado la tasa de supervivencia, sin embargo aún es dificil alcanzar una cura generalizada. El desafío reside en que cada caso es único, incluso es considerada un enfermedad multifactorial.
 
-Este documento tiene como objetivo describir la magnitud de la situación del cáncer en México.
+
 
 ## Objetivo: 
+Este documento tiene como objetivo describir la magnitud de la situación del cáncer en México.
 
 
 
