@@ -59,6 +59,16 @@ El 66.7% (n=8) de los participantes afirma que durante sus prácticas médicas l
 
 El 58.3% (n=7) de los participantes menciona que en la práctica el aspecto al que se le da más prioridad es el tratamiento, mientras que el 41.7% (n=5) contestó que el aspecto con mayor prioridad en la práctica es el diagnóstico.
 
+El 100% (n=12) de los participantes consideran que la automatización del diagnóstico de cáncer es una buena opción. Así mismo, el 100% de los participantes contestaron que los diagnósticos serían mas rápidos y precisos que los convencionales con estas nuevas herramientas.
+
+El 66.7% (n=8) de los participantes tienen conocimiento acerca de la medicina personalizada, mientras que el 33.3% (n=4) contestó no tener dicho conocimiento.
+
+El 100% (n=12) de los participantes aseguró que la medicina personalizada se basa en la atención medica de acuerdo a sus genes y enfermedad especifica.
+
+El 33.3% (n=4) de los participantes considera que la carrera le ha brindado las suficientes herramientas para entender como se relaciona la secuenciación genética con un mejor diagnóstico. Sin embargo, el 66.7% (n=8) de los participantes considera lo contrario.
+
+El 100% (n=12) de los participante creen que es importante la unión de diferentes disciplinas en el área médica, como las ciencias de la computación, biología y matemáticas. 
+
 
 
 
