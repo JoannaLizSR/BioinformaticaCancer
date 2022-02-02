@@ -48,6 +48,7 @@ Las preguntas que se realizaron fueron las siguientes:
 
 ## Resultados:
 Se obtuvieron respuestas de 12 participantes (3 mujeres y 9 hombres), los cuales son estudiantes de medicina y médicos. Las es edades de estos participantes se encuentran entre 21 (n=1), 22 (n=1), 24 (n=1), 27 (n=1), 33 (n=3), 50 (n=1), 52 (n=1) y 55 (n=2) años. 
+<div align= "center"><img src="Graficas/graficaSexo.jpg" alt="SexoParticipantes" style="height: 500px; width:700px;"/></div>
 
 Todos los partipantes (n=12, 100%) tienen una idea clara de lo que es la bioinformática.
 
