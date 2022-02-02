@@ -98,5 +98,4 @@ El 100% (n=12) de los participante creen que es importante la unión de diferent
 
 
 ## Referencias:
-
-
+1. Flamand-Gómez, L., Moreno-Jaimes, C., Arriaga Carrasco R., (2020) Cáncer y desigualdades sociales en México 2020. Ciudad de México : El Colegio de México, Red de Estudios Sobre Desigualdades : ITESO, Universidad Jesuita de Guadalajara : Fundación de Alba : Respirando con Valor A.C. : Salvati A.C.
