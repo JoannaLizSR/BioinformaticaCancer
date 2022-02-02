@@ -24,10 +24,48 @@ Este documento tiene como objetivo describir la magnitud de la situación del c�
 
 
 ## Diagrama metodológico:
+Se realizó una encuesta a 12 participantes, donde todos ellos son estudiantes de medicina (n= ) y médicos (n= ).
+Las preguntas que se realizaron fueron las siguientes:
 
+1. Indica tu edad
+2. Indica tu sexo
+3. ¿Sabes qué es la bioinformática?
+4. ¿Conoces a algún bioinformático? 
+5. ¿Conoce alguna herramienta tecnológica auxiliar en el diagnóstico de cáncer?
+6. Durante sus prácticas médicas, ¿Alguna vez mencionaron la secuenciación y análisis de genes como un factible camino de diagnóstico en algún paciente?
+7. En la práctica , ¿Cuál es el enfoque al que se le da mayor prioridad?
+        - Diagnóstico
+        - Tratamiento
+8. ¿Considera la automatización del diagnóstico de cáncer una buena opción? Sí / No...¿Por qué?
+9. ¿Tienes conocimiento acerca de la medicina personalizada?
+10. La medicina personalizada se basa en....
+        - Llevar acabo el mismo tratamiento para las personas con un mismo tipo de cáncer.
+        - La atención medica de acuerdo a sus genes y enfermedad específica.
+        - Las dos opciones mencionadasanteriormente.
+11. ¿La carrera le ha brindado las suficientes herramientas para entender como se relaciona la secuenciación genética con un mejor diagnóstico?
+12. ¿Usted cree que es importante la unión de diferentes disciplinas en el área médica ? (ciencias de la computación, biología y matemáticas)
 
 
 ## Resultados:
+Se obtuvieron respuestas de 12 participantes (3 mujeres y 9 hombres), los cuales son estudiantes de medicina y médicos. Las es edades de estos participantes se encuentran entre 21 (n=1), 22 (n=1), 24 (n=1), 27 (n=1), 33 (n=3), 50 (n=1), 52 (n=1) y 55 (n=2) años. 
+
+Todos los partipantes (n=12, 100%) tienen una idea clara de lo que es la bioinformática.
+
+El 33.3% (n=4) de lo participantes manifiestan conocer un bioinformático, mientras que el 66.7% (n=8) respondió que no conocen a un bioinformático.
+
+El 91.7% (n=11) de los participantes dice conocer alguna herramienta tecnológica auxiliar en el diagnóstico de cáncer, mientras que sólo el 8.3% (n=1) dice no conocer ninguna herramienta de este tipo.
+
+El 66.7% (n=8) de los participantes afirma que durante sus prácticas médicas le mencionaron la secuenciación y análisis de genes como un factible camino de diagnóstico en algún paciente. Sin embargo, el 33.3% (n=4) respondió negativamente.
+
+El 58.3% (n=7) de los participantes menciona que en la práctica el aspecto al que se le da más prioridad es el tratamiento, mientras que el 41.7% (n=5) contestó que el aspecto con mayor prioridad en la práctica es el diagnóstico.
+
+
+
+
+
+
+
+
 
 
 
