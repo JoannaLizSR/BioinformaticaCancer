@@ -22,7 +22,7 @@ Este documento tiene como objetivo mostrar que la bioinformática es un excelent
 
 
 ## Diagrama metodológico:
-Se realizó una encuesta a 12 participantes, donde todos ellos son estudiantes de medicina (n= ) y médicos (n= ).
+Se realizó una encuesta a 12 participantes, donde todos ellos son estudiantes de medicina y médicos.
 Las preguntas que se realizaron fueron las siguientes:
 
 1. Indica tu edad
