@@ -52,24 +52,35 @@ Se obtuvieron respuestas de 12 participantes (3 mujeres y 9 hombres), los cuales
 <div align= "center"><img src="Graficas/graficaEdad.jpg" alt="SexoParticipantes" style="height: 300px; width:500px;"/></div>
 
 Todos los partipantes (n=12, 100%) tienen una idea clara de lo que es la bioinformática.
+<div align= "center"><img src="Graficas/graficaPregunta3.jpg" alt="SexoParticipantes" style="height: 300px; width:500px;"/></div>
 
 El 33.3% (n=4) de lo participantes manifiestan conocer un bioinformático, mientras que el 66.7% (n=8) respondió que no conocen a un bioinformático.
+<div align= "center"><img src="Graficas/graficaPregunta4.jpg" alt="SexoParticipantes" style="height: 300px; width:500px;"/></div>
 
 El 91.7% (n=11) de los participantes dice conocer alguna herramienta tecnológica auxiliar en el diagnóstico de cáncer, mientras que sólo el 8.3% (n=1) dice no conocer ninguna herramienta de este tipo.
+<div align= "center"><img src="Graficas/graficaPregunta5.jpg" alt="SexoParticipantes" style="height: 300px; width:500px;"/></div>
 
 El 66.7% (n=8) de los participantes afirma que durante sus prácticas médicas le mencionaron la secuenciación y análisis de genes como un factible camino de diagnóstico en algún paciente. Sin embargo, el 33.3% (n=4) respondió negativamente.
+<div align= "center"><img src="Graficas/graficaPregunta6.jpg" alt="SexoParticipantes" style="height: 300px; width:500px;"/></div>
 
 El 58.3% (n=7) de los participantes menciona que en la práctica el aspecto al que se le da más prioridad es el tratamiento, mientras que el 41.7% (n=5) contestó que el aspecto con mayor prioridad en la práctica es el diagnóstico.
+<div align= "center"><img src="Graficas/graficaPregunta7.jpg" alt="SexoParticipantes" style="height: 300px; width:500px;"/></div>
 
 El 100% (n=12) de los participantes consideran que la automatización del diagnóstico de cáncer es una buena opción. Así mismo, el 100% de los participantes contestaron que los diagnósticos serían mas rápidos y precisos que los convencionales con estas nuevas herramientas.
+<div align= "center"><img src="Graficas/graficaPregunta8.jpg" alt="SexoParticipantes" style="height: 300px; width:500px;"/></div>
+<div align= "center"><img src="Graficas/graficaPregunta8_1.jpg" alt="SexoParticipantes" style="height: 300px; width:500px;"/></div>
 
 El 66.7% (n=8) de los participantes tienen conocimiento acerca de la medicina personalizada, mientras que el 33.3% (n=4) contestó no tener dicho conocimiento.
+<div align= "center"><img src="Graficas/graficaPregunta9.jpg" alt="SexoParticipantes" style="height: 300px; width:500px;"/></div>
 
 El 100% (n=12) de los participantes aseguró que la medicina personalizada se basa en la atención medica de acuerdo a sus genes y enfermedad especifica.
+<div align= "center"><img src="Graficas/graficaPregunta10.jpg" alt="SexoParticipantes" style="height: 300px; width:500px;"/></div>
 
 El 33.3% (n=4) de los participantes considera que la carrera le ha brindado las suficientes herramientas para entender como se relaciona la secuenciación genética con un mejor diagnóstico. Sin embargo, el 66.7% (n=8) de los participantes considera lo contrario.
+<div align= "center"><img src="Graficas/graficaPregunta11.jpg" alt="SexoParticipantes" style="height: 300px; width:500px;"/></div>
 
 El 100% (n=12) de los participante creen que es importante la unión de diferentes disciplinas en el área médica, como las ciencias de la computación, biología y matemáticas. 
+<div align= "center"><img src="Graficas/graficaPregunta12.jpg" alt="SexoParticipantes" style="height: 300px; width:500px;"/></div>
 
 
 
