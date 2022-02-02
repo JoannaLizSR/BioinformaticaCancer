@@ -93,8 +93,8 @@ El 100% (n=12) de los participante creen que es importante la unión de diferent
 
 
 
-## Conclusiones:
-
+## Conclusiones: 
+En general podemos decir, que a pesar de que los estudiantes de medicina y médicos tengan conocimientos de las nuevas herramientas desarrolladas basadas en el estudios de la bioinformática, esto no sirve de mucho pues si estos conocimientos no son se llevan a la práctica y se usa para la prevención y detección temprana de cáncer, en especial hacer diagnósticos más precisos en pacientes con cáncer. Podemos notar que existen distintos factores para que estas herramientas no se usen, la más destacada es la desigualdad social; en todo el ciclo de atención y control del cáncer, las personas que experimentan desventajas vinculadas con su nivel de ingreso, su género, su lugar de residencia o su afiliación a la seguridad social enfrentan mayores riesgos. En otros términos, las personas de altos ingresos, las que residen en zonas urbanas y las afiliadas a la seguridad social parecen estar mejor protegidas frente al cáncer: aunque hay variaciones según el tipo, su probabilidad de adquirirlo suele ser más baja y la de acceder a tratamiento efectivo, más elevada.
 
 
 ## Referencias:
