@@ -33,7 +33,7 @@ Las preguntas que se realizaron fueron las siguientes:
 4. ¿Conoces a algún bioinformático? 
 5. ¿Conoce alguna herramienta tecnológica auxiliar en el diagnóstico de cáncer?
 6. Durante sus prácticas médicas, ¿Alguna vez mencionaron la secuenciación y análisis de genes como un factible camino de diagnóstico en algún paciente?
-7. En la práctica , ¿Cuál es el enfoque al que se le da mayor prioridad?
+7. En la práctica, ¿Cuál es el enfoque al que se le da mayor prioridad?
         - Diagnóstico
         - Tratamiento
 8. ¿Considera la automatización del diagnóstico de cáncer una buena opción? Sí / No...¿Por qué?
