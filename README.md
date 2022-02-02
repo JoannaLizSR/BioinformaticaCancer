@@ -8,7 +8,7 @@ El cáncer es la tercera causa de muerte en México, por esta enfermedad fallece
 La incidencia del cáncer, en general, es mayor en las personas y regiones de ingresos medios y altos, sin embargo, también afecta de manera significativa a los estratos socioeconómicos menos aventajados. Las personas que experimentan desigualdades sociales en México viven en contextos menos propicios para
 prevenir el cáncer y, en general, para acceder a sistemas de atención oportunos, efectivos y de calidad.
 
-La lucha contra el cáncer ha avanzado mucho en los últimos 30 años, al igual que ha mejorado la tasa de supervivencia, sin embargo aún es dificil alcanzar una cura generalizada. El desafío reside en que cada caso es único, incluso es considerada un enfermedad multifactorial.
+La lucha contra el cáncer ha avanzado mucho en los últimos 30 años, al igual que ha mejorado la tasa de supervivencia, sin embargo aún es dificil alcanzar una cura generalizada. El desafío reside en que cada caso es único, incluso es considerada un enfermedad multifactorial. Es por esto, que se deben incluir disntintas disciplinas en el desarrollo de nuevas técnicas para diagnósticos tempranos de cualquier tipo de cáncer. En particular, analizaremos el uso de la bioinformática como herramienta en el diagnóstico oncológico.
 
 
 
